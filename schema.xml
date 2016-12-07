@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<database name="default" defaultIdMethod="native" namespace="maprec" defaultPhpNamingMethod="underscore">
+  <table name="cards" idMethod="native" phpName="Cards" namespace="maprec">
+    <column name="card_id" phpName="CardId" type="INTEGER" primaryKey="true" autoIncrement="true" required="true"/>
+    <column name="card_name" phpName="CardName" type="VARCHAR" size="100" required="true"/>
+    <column name="required_count" phpName="RequiredCount" type="INTEGER" required="true"/>
+    <unique name="cards_card_id_uindex">
+      <unique-column name="card_id"/>
+    </unique>
+    <vendor type="mysql">
+      <parameter name="Engine" value="InnoDB"/>
+    </vendor>
+  </table>
+  <table name="cards_to_maps" idMethod="native" phpName="CardsToMaps" namespace="maprec">
+    <column name="card_to_maps_id" phpName="CardToMapsId" type="INTEGER" primaryKey="true" autoIncrement="true" required="true"/>
+    <column name="card_id" phpName="CardId" type="INTEGER" required="true"/>
+    <column name="map_id" phpName="MapId" type="INTEGER" required="true"/>
+    <foreign-key foreignTable="cards" name="card_id_fk">
+      <reference local="card_id" foreign="card_id"/>
+    </foreign-key>
+    <foreign-key foreignTable="maps" name="map_id_fk">
+      <reference local="map_id" foreign="map_id"/>
+    </foreign-key>
+    <index name="card_id_fk">
+      <index-column name="card_id"/>
+    </index>
+    <index name="map_id_fk">
+      <index-column name="map_id"/>
+    </index>
+    <unique name="cards_to_maps_card_to_maps_id_uindex">
+      <unique-column name="card_to_maps_id"/>
+    </unique>
+    <vendor type="mysql">
+      <parameter name="Engine" value="InnoDB"/>
+    </vendor>
+  </table>
+  <table name="maps" idMethod="native" phpName="Maps" namespace="maprec">
+    <column name="map_id" phpName="MapId" type="INTEGER" primaryKey="true" autoIncrement="true" required="true"/>
+    <column name="map_name" phpName="MapName" type="VARCHAR" size="100" required="true"/>
+    <column name="map_level" phpName="MapLevel" type="INTEGER" required="true" defaultValue="0"/>
+    <column name="map_tier" phpName="MapTier" type="INTEGER" required="true" defaultValue="0"/>
+    <column name="map_layout" phpName="MapLayout" type="VARCHAR" size="5" required="true" defaultValue="X"/>
+    <column name="map_difficulty" phpName="MapDifficulty" type="INTEGER" required="true" defaultValue="0"/>
+    <column name="map_tileset" phpName="MapTileset" type="VARCHAR" size="100"/>
+    <column name="map_description" phpName="MapDescription" type="VARCHAR" size="500" required="true" defaultValue="No Description Available"/>
+    <column name="map_num_bosses" phpName="MapNumBosses" type="INTEGER" defaultValue="0"/>
+    <unique name="maps_map_id_uindex">
+      <unique-column name="map_id"/>
+    </unique>
+    <vendor type="mysql">
+      <parameter name="Engine" value="InnoDB"/>
+    </vendor>
+  </table>
+</database>
