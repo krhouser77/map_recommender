@@ -19,9 +19,9 @@ class CardType extends BaseAbstractType
      */
     public function buildForm(FormBuilderInterface $builder, array $options)
     {
-        $this->options[listMode] = $options['listMode'];
+        $this->listMode = $options['listMode'];
 
-        if ($this->options[listMode] == false) {
+        if ($this->listMode == false) {
 
             $this->buildEditForm($builder, $options) ;
         }
