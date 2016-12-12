@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    {% stylesheets '@MapRecBundle/Resources/views/css/*' %}
+        <link rel="stylesheet" href="{{ asset_url }}" />
+    {% endstylesheets %}
+    <meta charset="UTF-8">
+    <title>Map Recommender Admin - Add A Card</title>
+</head>
+<body>
+    <h1>Map Recommender Administration</h1>
+    <h2>Add a Card to the Database</h2>
+    <div id="form">
+     {{ form_start(form) }}
+        {{ form_widget(form) }}
+     {{ form_end(form) }}
+    </div>
+</body>
+</html>

@@ -1,0 +1,21 @@
+
+.singleLineInput {
+    display:inline-block;
+    margin:4px;
+}
+
+.mapTable {
+    display:inline-block;
+}
+
+.mapTable input {
+    display:inline-block;
+    width:1%;
+}
+
+.mapTable label {
+    display:inline-block;
+    white-space:nowrap;
+    width:23%;
+
+}

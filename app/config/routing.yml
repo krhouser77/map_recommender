@@ -1,0 +1,3 @@
+maprec:
+  resource: "@MapRecBundle/Controller/"
+  type: annotation

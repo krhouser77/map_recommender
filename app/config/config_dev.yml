@@ -11,6 +11,15 @@ web_profiler:
     toolbar: true
     intercept_redirects: false
 
+propel:
+    dbal:
+        driver:               %database_driver%
+        user:                 %database_user%
+        password:             %database_password%
+        dsn:                  %database_driver%:host=%database_host%;dbname=%database_name%;charset=UTF8
+        options:              {}
+        attributes:           {}
+
 monolog:
     handlers:
         main:
@@ -31,6 +40,8 @@ monolog:
 
 assetic:
     use_controller: true
+
+
 
 #swiftmailer:
 #    delivery_address: me@example.com

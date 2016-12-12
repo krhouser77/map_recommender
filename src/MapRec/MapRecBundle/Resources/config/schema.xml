@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<database name="default" defaultIdMethod="native" namespace="maprec" defaultPhpNamingMethod="underscore">
-  <table name="card" idMethod="native" phpName="Card" namespace="maprec">
+<database name="default" defaultIdMethod="native" namespace="MapRec\MapRecBundle\Model" defaultPhpNamingMethod="underscore">
+  <table name="card" idMethod="native" phpName="Card">
     <column name="card_id" phpName="CardId" type="INTEGER" primaryKey="true" autoIncrement="true" required="true"/>
     <column name="card_name" phpName="CardName" type="VARCHAR" size="100" required="true"/>
     <column name="required_count" phpName="RequiredCount" type="INTEGER" required="true"/>
@@ -11,7 +11,7 @@
       <parameter name="Engine" value="InnoDB"/>
     </vendor>
   </table>
-  <table name="card_to_map" idMethod="native" phpName="CardToMap" namespace="maprec">
+  <table name="card_to_map" idMethod="native" phpName="CardToMap">
     <column name="card_to_maps_id" phpName="CardToMapsId" type="INTEGER" primaryKey="true" autoIncrement="true" required="true"/>
     <column name="card_id" phpName="CardId" type="INTEGER" required="true"/>
     <column name="map_id" phpName="MapId" type="INTEGER" required="true"/>
@@ -34,7 +34,7 @@
       <parameter name="Engine" value="InnoDB"/>
     </vendor>
   </table>
-  <table name="map" idMethod="native" phpName="Map" namespace="maprec">
+  <table name="map" idMethod="native" phpName="Map">
     <column name="map_id" phpName="MapId" type="INTEGER" primaryKey="true" autoIncrement="true" required="true"/>
     <column name="map_name" phpName="MapName" type="VARCHAR" size="100" required="true"/>
     <column name="map_level" phpName="MapLevel" type="INTEGER" required="true" defaultValue="0"/>
