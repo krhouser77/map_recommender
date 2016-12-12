@@ -1,0 +1,129 @@
+1,Arcade Map,68,1, B,1,Marketplace,[[Herald of Ashes]]<br>[[Arcade Map|Herald of Thunder]],2
+2,Crystal Ore Map,68,1, B,1,Mines,[[Shrieker Eihal]]<br>[[Breaker Toruul]],2
+3,Desert Map,68,1, C,3,Dried Lake,[[Splinter Liege]],1
+4,Jungle Valley Map,68,1, A,2,The Riverways,[[Queen of the Great Tangle]],1
+5,Beach Map,69,2, A,2,Tidal Island,[[Glace]],1
+6,Factory Map,69,2, C,1,Warehouse,[[Mother Phyia]],1
+7,Ghetto Map,69,2, C,3,The Slums,[[The Reaver]],1
+8,Oasis Map,69,2, B,3,,"[[Planus, Hollow Soul]]",1
+9,The Apex of Sacrifice,70,0,B,5,Ancient Pyramid,"[[Atziri, Queen of the Vaal]]",6
+10,Arid Lake Map,70,3, B,3,Fetid Pool,[[Drought-Maddened Rhoa]],1
+11,Cavern Map,70,3, C,3,Cavern of Wrath,[[The Eroding One]],1
+12,Channel Map,70,3, C,4,The Aqueduct,[[The Winged Death]],1
+13,Grotto Map,70,3, C,3,Caverns,[[Void Anomaly]],1
+14,Marshes Map,70,3, B,3,The Mud Flats,"[[Tore, Towering Ancient]]",1
+15,Sewer Map,70,3, C,3,Sewers,[[Arachnoxia]],1
+16,Vaal Pyramid Map,70,3, C,5,Ancient Pyramid,[[The Fallen Queen]]<br>[[The Hollow Lady]]<br>[[The Broken Prince]],3
+17,Vaults of Atziri,70,3, A,0,Ancient Pyramid,(none),0
+18,Academy Map,71,4, C,4,The Library,[[The Arbiter of Knowledge]],1
+19,Acid Lakes Map,71,4, A,4,Fetid Pool,[[Mirage of Bones]],1
+20,Dungeon Map,71,4, C,4,Prison,[[Penitentiary Incarcerator]],1
+21,Graveyard Map,71,4, B,2,Fellshrine Ruins,"[[Litanius, the Black Prayer]]",1
+22,Hallowed Ground,71,4, B,4,Fellshrine Ruins,[[Maker of Mires]],1
+23,Phantasmagoria Map,71,4, A,2,Belly of the Beast,[[Erythrophagia]],1
+24,Villa Map,71,4, C,3,The Sceptre of God,[[Excellis Aurafix]],1
+25,Waste Pool Map,71,4, C,3,Sewers,[[Asphyxia]],1
+26,Burial Chambers Map,72,5, B,2,Crypt,[[Witch of the Cauldron]],1
+27,Dunes Map,72,5, B,3,The Coast,[[The Blacksmith]],1
+28,Mesa Map,72,5, A,2,The Ledge,[[Oak the Mighty]],1
+29,The Pale Court,72,0,A,5,Ancient Pyramid ,"[[Eber, the Plaguemaw]]<br>[[Inya, the Unbearable Whispers]]<br>[[Volkuur, the Unbreathing Queen]]<br>[[Yriel, the Feral Lord]]",4
+30,Peninsula Map,72,5, A,2,The Old Fields,[[Titan of the Grove]],1
+31,Pit Map,72,5, C,3,Daresso's Dream,"[[Olof, Son of the Headsman]]",1
+32,Primordial Pool Map,72,5, A,3,Fetid Pool,[[Nightmare's Omen]],1
+33,Spider Lair Map,72,5, B,3,The Weaver's Chambers,[[Thraxia]],1
+34,Tower Map,72,5, B,4,Prison,[[Carnage]],1
+35,Canyon Map,73,6, A,5,The Climb,"[[Gnar, Eater of Carrion]]<br>[[Stonebeak, Battle Fowl]]",2
+36,Quarry Map,73,6, B,4,Mines,[[Avatar of Undoing]],1
+37,Racecourse Map,73,6, A,3,The Grand Arena,[[Shredder of Gladiators]]<br>[[Crusher of Gladiators]]<br>[[Bringer of Blood]],3
+38,Ramparts Map,73,6, A,3,"Ledge, Sarn",[[Legius Garhall]]<br>[[Blackguard Inquisitor]](guard)<br>[[Blackguard Inquisitor]](mage),3
+39,Spider Forest Map,73,6, C,2, The Northern Forest,[[Enticer of Rot]],1
+40,Strand Map,73,6, A,3,Twilight Strand,[[Massier]]<br>[[Master of the Blade]],2
+41,Whakawairua Tuahu,73,6, C,4,Twilight Strand,[[Tormented Temptress]],1
+42,Thicket Map,73,6, B,3,Dread Thicket,[[The Primal One]],1
+43,Vaal City Map,73,6, C,4,Travincal,[[Lady Stormflay]],1
+44,Wharf Map,73,6, A,2,Docks,[[Stone of the Currents]],1
+45,Arachnid Tomb Map,74,7, A,2,The Chamber of Sins,[[Hybrid Widow]],1
+46,Armory Map,74,7, A,2,,[[Warmonger]],1
+47,Ashen Wood Map,74,7, B,2,The Old Fields,[[Lord of the Ashen Arrow]],1
+48,Castle Ruins Map,74,7, B,2,The Old Fields,"[[Leif, the Swift-Handed]]",1
+49,Catacombs Map,74,7, C,2,The Catacombs,"[[Xixic, High Necromancer]]",1
+50,Olmec's Sanctum,74,7, A,4,The Catacombs,"[[Olmec, the All Stone]]",5
+51,Cells Map,74,7, C,4,Crematorium,[[Megaera]],1
+52,Mud Geyser Map,74,7, B,5,Fetid Pool,[[Tunneltrap]],1
+53,Arachnid Nest Map,75,8, B,5,The Weaver's Chambers,[[Spinner of False Hope]],1
+54,Arena Map,75,8, B,4,The Grand Arena,[[Avatar of the Forge]]<br>[[Avatar of the Huntress]]<br>[[Avatar of the Skies]],3
+55,Atoll Map,75,8, A,4,The Ledge,"[[Puruna, the Challenger]]",1
+56,Maelström of Chaos,75,8, A,3,The Ledge,"[[Merveil, the Reflection]]<br>[[Merveil, the Returned]]",2
+57,Barrows Map,75,8, C,3,The Southern Forest,[[Beast of the Pits]],1
+58,Bog Map,75,8, B,3,Fetid Pool,[[Skullbeak]],1
+59,Cemetery Map,75,8, B,5,Fellshrine Ruins,[[Champion of Frost]]<br>[[Thunderskull]]<br>[[Steelpoint the Avenger]],3
+61,Pier Map,75,8, C,2,The Docks,[[Ancient Architect]],1
+62,Shore Map,75,8, B,3,The Coast,"[[Belcer, Pirate Lord]]",1
+63,Tropical Island Map,75,8, A,2,The Southern Forest,[[Blood Progenitor]]<br>[[Spirit of Aidan]]<br>[[Spirit of Nadia]],3
+64,Untainted Paradise,75,8, B,2,The Southern Forest,[[Clutch Queen]]<br>[[Colossal Spitter]]<br>[[Elder Devourer]]<br>[[Great Maw]]<br>[[Prime Ape]]<br>[[The First Rhoa]],6
+65,Coves Map,76,9, B,4,The Coves,"[[Telvar, the Inebriated]]<br>[[Pirate Treasure]]",2
+66,Crypt Map,76,9, C,3,Crypt,[[Pagan Bishop of Agony]],1
+67,The Coward's Trial,76,9, A,2,Crypt,[[Infector of Dreams]],1
+68,Museum Map,76,9, C,5,Library,[[He of Many Pieces]],1
+69,The Putrid Cloister,76,9, C,4,Library,[[Headmistress Braeta]],1
+70,Orchard Map,76,9, C,4,The Imperial Gardens,[[Vision of Justice]],1
+71,Overgrown Shrine Map,76,9, C,4,Chamber of Sins,[[The Wicked One]],1
+72,Acton's Nightmare,76,9, C,2,Chamber of Sins,[[Rose]]<br>[[Thorn]],2
+73,Promenade Map,76,9, A,3,The Ebony Barracks,[[Blackguard Avenger]]<br>[[Blackguard Tempest]],2
+74,Hall of Grandmasters,76,9, A,5,The Ebony Barracks,(none)*,0
+75,Reef Map,76,9, B,4,Tidal Island,[[First Mate Crastus]],1
+76,Mao Kun,76,9, C,4,Tidal Island,"[[Fairgraves, Never Dying]]",1
+77,Temple Map,76,9, C,3,Solaris,[[Riftwalker]],1
+78,Poorjoy's Asylum,76,9, B,5,Lunaris Temple,[[Mistress Hyseria]],1
+79,Arsenal Map,77,10, C,2,The Warehouse District,[[The Steel Soul]],1
+80,Colonnade Map,77,10, A,3,Battlefront,[[Tyrant]],1
+81,Courtyard Map,77,10, B,4,The Imperial Gardens,[[Oriath's Vengeance]]<br>[[Oriath's Vigil]]<br>[[Oriath's Virtue]],3
+82,The Vinktar Square,77,10, C ,3,Battlefront ,[[Guardian of the North]]<br>[[Guardian of the East]]<br>[[Guardian of the South]]<br>[[Guardian of the West]]<br>[[Avatar of Thunder]]<br>,5
+83,Malformation Map,77,10, C,4,The Belly of the Beast,[[Nightmare Manifest]],1
+84,Quay Map,77,10, A,4,City of Sarn,[[Unravelling Horror]],1
+85,Terrace Map,77,10, C,4,The Hedge Maze,[[Sallazzang]],1
+86,Underground River Map,77,10, A,3,Cavern of Wrath,[[It That Fell]],1
+87,"Caer Blaidd, Wolfpack's Den",77,10, B,4,The Den,"[[Solus, Pack Alpha]]<br>[[Storm Eye]]<br>[[Winterfang]]",3
+88,Bazaar Map,78,11, B,3,Marketplace,[[Ancient Sculptor]],3
+89,Chateau Map,78,11, C,4,Labyrinth,"[[Hephaeus, The Hammer]]",1
+90,The Perandus Manor,78,11, X,0,Labyrinth,"[[Platinia, Servant of Prospero]]<br>[[Auriot, Prospero's Furnace Guardian]]<br>[[Rhodion, Servant of Prospero]]<br>[[Osmea, Servant of Prospero]]<br>[[Pallias, Servant of Prospero]]<br>[[Argient, Servant of Prospero]]<br>[[Rheniot, Servant of Prospero]]",7
+91,Excavation Map,78,11, C,5,The Mines,[[Champion of the Hollows]]<br>[[Lord of the Hollows]]<br>[[Messenger of the Hollows]],3
+92,Precinct Map,78,11, B,4,The Slums,(none)*,3
+93,Torture Chamber Map,78,11, C,4,Prison,[[Shock and Horror]],1
+94,Oba's Cursed Trove,78,11, B,1,"Mixed (Act 1, Act 2)",(none),0
+95,Underground Sea Map,78,11, C,2,The Den,"[[Merveil, the Reflection]]",1
+96,Wasteland Map,78,11, C,4,The Dried Lake,[[The Brittle Emperor (unique monster)|The Brittle Emperor]],1
+97,Crematorium Map,79,12, C,3,Prison,[[Fire and Fury]],1
+98,Estuary Map,79,12, B,1,X,[[Sumter the Twisted]],1
+99,Ivory Temple Map,79,12, C,0,The Lunaris Temple Level 1,[[Platinia]]<br>[[Auriot]]<br>[[Rhodion]]<br>[[Pallias]]<br>[[Argient]]<br>[[Rheniot]],6
+100,Necropolis Map,79,12, C,3,The Crypt,"[[Burtok, Conjuror of Bones]]",1
+101,Death and Taxes,79,12, A,5,Church Dungeon,[[Avatar of Ash]]<br>[[Avatar of Winter]]<br>[[Avatar of Silence]]<br>[[Avatar of Apocalypse]],4
+102,Plateau Map,79,12, A,3,The Ledge,"[[Puruna, the Challenger]]<br>[[Poporo, the Highest Spire]]",2
+103,Residence Map,79,12, B,5,The Sceptre of God,[[The High Templar]],1
+104,Shipyard Map,79,12, B,0,The Docks,"[[Musky ""Two-Eyes"" Grenn]]<br>[[Susara, Siren of Pondium]]<br>[[Lussi ""Rotmother"" Roth]]",3
+105,Vault Map,79,12,B,4,Labyrinth,[[Guardian of the Vault]],1
+106,Beacon Map,80,13, A,0,The Ledge,"[[Uruk Baleh]]<br>[[El'Abin, Bloodeater]]<br>[[Leli Goya, Daughter of Ash]]<br>[[Bin'aia, Crimson Rain]]",4
+107,Gorge Map,80,13, A,3,The Climb,"[[Rek'tar, the Breaker]]",1
+108,High Gardens Map,80,13, A,3,,[[Suncalled Asha]],1
+109,Lair Map,80,13, B,4,,"[[Lycius, Midnight's Howl]]",1
+110,Plaza Map,80,13, B,5,The Labyrinth,[[The Goddess]],1
+111,Scriptorium Map,80,13, A,4,The Library,"[[Gisale, Thought Thief]]",1
+112,Sulphur Wastes Map,80,13, B,0,,"[[Torishi, Aurora-Sage]]<br>[[Jeinei Yuushu]]<br>[[Otesha, the Giantslayer]]",3
+113,Waterways Map,80,13, C,3,The Aqueduct,[[Fragment of Winter]],1
+114,The Alluring Abyss,80,0,B,5,Ancient Pyramid,"[[Atziri, Queen of the Vaal]]",6
+115,Maze Map,81,14, C,4,Ancient Pyramid,[[Shadow of the Vaal (unique monster)|Shadow of the Vaal]],1
+116,Mineral Pools Map,81,14, A,3,,"[[Merveil, the Reflection]], [[Merveil, the Returned]]",2
+117,Palace Map,81,14, C,5,The Upper Sceptre,[[God's Chosen]]<br>[[The Hallowed Husk]],2
+118,Shrine Map,81,14, B,4,Lunaris Temple,[[Piety the Empyrian]],1
+119,Springs Map,81,14, B,3,Forest,[[Aulen Greychain]],1
+120,Volcano Map,81,14, A,4,Kaom's Path,[[Forest of Flames]],1
+121,Abyss Map,82,15, B,3,Kaom's Stronghold,[[The Infernal King]],1
+122,Colosseum Map,82,15, A,5,Daresso's Dream,"[[Ambrius, Legion Slayer]]",1
+123,Core Map,82,15, C,5,The Harvest,[[Prodigy of Pain]]<br>[[Prodigy of Hexes]]<br>[[Prodigy of Darkness]]<br>[[Eater of Souls]],4
+124,Dark Forest Map,82,15, B,5,Western Forest,[[The Cursed King]],1
+125,Overgrown Ruin Map,82,15, C,0,Chamber of Sins,"[[Rama, The Kinslayer]]<br>[[Kalria, The Fallen]]<br>[[Invari, The Bloodshaper]]<br>[[Lokan, The Deceiver]]<br>[[Marchak, The Betrayer]]<br>[[Berrots, The Breaker]]<br>[[Vessider, The Unrivaled]]<br>[[Morgrants, The Deafening]]",8
+126,Forge of the Phoenix Map,83,16, B,5,Sewers,[[Guardian of the Phoenix]],1
+127,Lair of the Hydra Map,83,16, A,5,Sewers,[[Guardian of the Hydra]],1
+128,Maze of the Minotaur Map,83,16, A,5,The Caverns,[[Guardian of the Minotaur]],1
+129,Pit of the Chimera Map,83,16, B,5,Daresso's Dream,[[Guardian of the Chimera]],1
+130,Vaal Temple Map,83,16, C,5,Ancient Pyramid,[[K'aj A'alai]]<br>[[K'aj Q'ura]]<br>[[K'aj Y'ara'az]],3
